@@ -16,29 +16,25 @@ Proficient with SQL, Python, Power BI, Exploratory Data Analysis, Machine Learni
 **Highly Skilled In:**
 Team Leading, Project Management, Time Management, Communication, Solution Architect, Solution Engineer, Presales.
 ---
-###
-Projects I have worked on:
-Led the design and deployment of a Kubernetes-based WSO2 API Management Platform, overseeing vendor selection, infrastructure sizing, and production rollout.
-• Delivered and implemented HNAS and XDR cybersecurity solutions, improving data access security and threat detection by 35%.
-• Automated Group Policy Objects (GPO) across 500+ endpoints, reducing manual security policy enforcement time by 40%.
-• Introduced DevSecOps and CI/CD pipelines into the IT division, streamlining deployments and enabling faster innovation.
-• Built scalable container platforms using Docker, OpenShift, and Red Hat, reducing deployment cycles by 50%.
-• Produced high- and low-level security design documentation and led implementation of cybersecurity guidelines.
-• Led IT infrastructure expansion and optimization for global enterprises and telecom operators.
-• Executed cloud transformation initiatives (IaaS, PaaS, SaaS), modernizing legacy environments.
-• Designed and integrated OSS/BSS,CRM, Mediation,CPQ, and service activation systems across hybrid and cloud-native architectures.
-• Contributed to cloud-native solution definitions and presales technical proposals for key clients.
-• Delivered technical proposals and roadmaps for large enterprise clients, aligning IT architecture to business goals (B2B2X).
+### Projects I have worked on:
+### Led the design and deployment of a Kubernetes-based WSO2 API Management Platform, overseeing vendor selection, infrastructure sizing, and production rollout.
+### • Delivered and implemented HNAS and XDR cybersecurity solutions, improving data access security and threat detection by 35%.
+### • Automated Group Policy Objects (GPO) across 500+ endpoints, reducing manual security policy enforcement time by 40%.
+### • Introduced DevSecOps and CI/CD pipelines into the IT division, streamlining deployments and enabling faster innovation.
+### • Built scalable container platforms using Docker, OpenShift, and Red Hat, reducing deployment cycles by 50%.
+### • Produced high- and low-level security design documentation and led implementation of cybersecurity guidelines.
+### • Executed cloud transformation initiatives (IaaS, PaaS, SaaS), modernizing legacy environments.
+### • Designed and integrated OSS/BSS,CRM, Mediation,CPQ, and service activation systems across hybrid and cloud-native architectures.
+### • Delivered technical proposals and roadmaps for large enterprise clients, aligning IT architecture to business goals (B2B2X).
 ---
 
 ### Languages and tools ⚙️
- Docker, Openshift, Linux, Git and GitHub, Virtual Studio Code, Microsoft Dynamics, SingleView, API, AI Agents, DevOPs.
+### Docker, Openshift, Linux, Git and GitHub, Virtual Studio Code, Microsoft Dynamics, SingleView, API, AI Agents, DevOPs.
 
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
 </p>
 
 ---
-#### Even smaller heading
-Feel free to view more on LinkedIn 😄 .
+#### Feel free to view more on LinkedIn 😄 .
 
