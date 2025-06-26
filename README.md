@@ -1,5 +1,5 @@
 # MrEduardoCF
-### Hi there, I'm Eduardo Castillo  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Eduardo Castillo  <img src="https://raw.githubusercontent.com/MrCastilloF/MrCastilloF/main/image/wave.gif" width="30px">
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-castillo-b36291b8)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Eduardo39668243)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@eduardocastillo1964)
