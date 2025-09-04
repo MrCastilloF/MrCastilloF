@@ -6,7 +6,7 @@
 <br>
 Kaggle: https://www.kaggle.com/eduardocastillof
 ---
-### I am an Electronic and Telecommunication Engineer with 15+ years of global experience in designing and deploying scalable IT and network solutions for cloud, telecom, and enterprise environments. Skilled in OSS/BSS/ERP/CPQ, cybersecurity (Firewall, MPLS, SD-WAN,2/L3 Networking), cloud migration (AWS, GCP, Oracle), containerization (Docker, OpenShift, GitHub), and infrastructure modernization. Experienced in automation, virtualization, DevSecOps, and stakeholder engagement.
+### I am an Electronic and Telecommunication Engineer with 15+ years of global experience in designing and deploying scalable IT and network solutions for cloud, telecom, and enterprise environments. Skilled in OSS/BSS/ERP/CPQ, cybersecurity (Firewall, MPLS, SD-WAN,L2/L3 Networking), cloud migration (AWS, GCP, Oracle), containerization (Docker, OpenShift, GitHub), and infrastructure modernization. Experienced in automation, virtualization, DevSecOps, and stakeholder engagement.
 ---
 ###  Proficient with SQL, Python, Power BI, Exploratory Data Analysis, Machine Learning, AWS EC2.
 ### **Highly Skilled In:**
